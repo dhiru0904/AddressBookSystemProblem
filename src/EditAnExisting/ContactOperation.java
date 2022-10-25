@@ -123,4 +123,8 @@ public class ContactOperation {
             else
                 return false;
         }
+
+    public boolean deleteContact(String firstName) {
+        return false;
+    }
 }
